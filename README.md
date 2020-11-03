@@ -12,5 +12,5 @@ Those are the files contain functions which is used in Main function. It is simi
 Derivator - Gets the numerical derivation of given arrays
 round_odd - Rounds up to an odd number. Planned to be used in savitzky golay filter part of the Main file. Savitzky Golay frame length is decided to be manually later
 
-#Notes
+# Notes
 The raw data is not presented here due to the couple reasons. Data is owned by an university.
